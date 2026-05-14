@@ -28,5 +28,3 @@ Watch more Website Template in my Website.
 # Website View
 **Link:** [Click Here](https://abdullahzaheer1.github.io/Restaurant-Website/)   
 
-# Website
-**Website:**  www.codecrafts.site
