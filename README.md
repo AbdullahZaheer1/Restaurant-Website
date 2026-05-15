@@ -1,29 +1,11 @@
 # Restaurant-Website
-This is a Website of Restaurant. I am make Following Section in this Website.
 
-+ **Home**
+Built a fully responsive restaurant website using HTML, CSS, and JavaScript.
 
-+ **About**
+Features:
+HOME, ABOUT, SERVICE, MENU, BOOKING, OUR TEAM, TESTIMONIAL, PRIVACY POLICY, TERMS & CONDITION, CONTACT
 
-+ **Service**
-
-+ **Menu**
-
-+ **Pages**
-
-  + Booking
-  
-  + Our Team
-  
-  + Testimonial
-  
-  + Privacy Policy
-  
-  + Terms & Condition
-
-+ **Contact**
-
-Watch more Website Template in my Website.
+Tech Stack: HTML5, CSS3, JavaScript
 
 # Website View
 **Link:** [Click Here](https://restaurant-website-ruby-mu.vercel.app/)   
